@@ -39,7 +39,7 @@ Hand tracking module class output for one hand
 
 Hand tracking module class output for both hands
 
-![h4](htt![h5](https://user-images.githubusercontent.com/53009277/215038923-38017df9-ae05-42e6-ae14-37a24bb7903a.png)
+![h4](https://user-images.githubusercontent.com/53009277/215039355-9665430b-9d33-4769-879e-a24a83d07fca.png)
 ![h5](https://user-images.githubusercontent.com/53009277/215039027-f25a00bf-eef1-458f-9631-0c842bf19e3b.png)
 
 AI Virtualmouse module output
